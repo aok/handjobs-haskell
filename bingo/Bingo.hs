@@ -10,12 +10,14 @@ import Control.Monad
 main = do file <- fmap head getArgs
           items <- getLines file 
           seed  <- newStdGen
-          let shuffledItems = shuffle' items (length items) seed
+          let shuffledItems = shuffle'' seed items
           print $ bingo 3 shuffledItems
 
 getLines = liftM lines . readFile
 
-bingo size = take size . chunk size . take (size * size)
+shuffle'' seed items = shuffle' items (length items) seed
+
+bingo size = take size . chunk size . take (size * size - 1)
 
 chunk _ [] = [[]]
 chunk n xs = y1 : chunk n y2 where (y1, y2) = splitAt n xs

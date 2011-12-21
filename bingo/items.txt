@@ -1,15 +1,25 @@
 BMC
+Batch Reduction
 C-P-S
 Customer Development
 Early Adopters
+FIFO
 Getting Out of the Building
+Kaizen
+Kanban
 Lean Startup
 MVP
 Market Type
 Minimum Viable Product
+Non-Traditional Business Models
+One Piece Flow
 Pirate Metrics
 Pivot
 Positioning
 Product-Market Fit
+Pull
+Root Cause Analysis
 Segmentation
-Non-Traditional Business Models
+Upstream
+WIP
+Waste

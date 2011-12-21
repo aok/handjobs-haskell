@@ -1,3 +1,6 @@
+-- Try it out:
+-- runhaskell Bingo.hs items.txt
+
 import System.Environment
 import System.Random
 import System.Random.Shuffle

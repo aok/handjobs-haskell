@@ -5,7 +5,6 @@ Customer Development
 Early Adopters
 FIFO
 Getting Out of the Building
-Kaizen
 Kanban
 Lean Startup
 MVP
@@ -18,8 +17,10 @@ Pivot
 Positioning
 Product-Market Fit
 Pull
-Root Cause Analysis
 Segmentation
 Upstream
 WIP
 Waste
+Vanity Metrics
+Groupon
+Dropbox

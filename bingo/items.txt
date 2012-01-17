@@ -13,7 +13,6 @@ Pivot
 Positioning
 Product-Market Fit
 Segment
-WIP
 Vanity Metrics
 Groupon
 Dropbox

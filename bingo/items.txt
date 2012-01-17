@@ -1,26 +1,31 @@
-BMC
-Batch Reduction
-C-P-S
+Business Model Canvas
+CPS Hypothesis
 Customer Development
 Early Adopters
-FIFO
+Earlyvangelists
 Getting Out of the Building
-Kanban
 Lean Startup
-MVP
-Market Type
 Minimum Viable Product
-Non-Traditional Business Models
-One Piece Flow
+Market Type
+Business Model
 Pirate Metrics
 Pivot
 Positioning
 Product-Market Fit
-Pull
-Segmentation
-Upstream
+Segment
 WIP
-Waste
 Vanity Metrics
 Groupon
 Dropbox
+Cohort
+IMVU
+Continuous Deployment
+Cost of Sales
+Long Tail
+Amazon
+Two-sided Platform
+Network Effects
+Liftime value of customer
+Retention
+Conversion
+Validated learning
